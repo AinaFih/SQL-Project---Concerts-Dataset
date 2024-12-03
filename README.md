@@ -8,3 +8,5 @@ This dataset contains information related to concerts, including **artists**, **
 - **ticketpricing**: Specifies different ticket prices based on the type for each performance.
 
 The data analysis file contains some examples of queries to extract information from the dataset.
+
+**Note**: This dataset is simulated and does not represent real-world data. It was created to demonstrate data analysis and database management techniques.
