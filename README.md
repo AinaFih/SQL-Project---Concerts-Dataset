@@ -1,4 +1,5 @@
 This dataset contains information related to concerts, including **artists**, **customers**, **performances**, and **ticket sales**. It is structured across multiple tables, each representing a different aspect of concert data.
+
 **Tables and Structure**
 - **artist**: Contains artist names, genre IDs, and performance fees.
 - **customer**: Stores customer details such as name, email, and phone number.
